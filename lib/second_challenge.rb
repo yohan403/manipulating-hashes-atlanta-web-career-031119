@@ -7,8 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.each do |type,food|
-    type.each do |
+  groceries.values.flatten
   end
 
   
